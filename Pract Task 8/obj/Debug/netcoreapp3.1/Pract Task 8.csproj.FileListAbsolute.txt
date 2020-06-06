@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\obj\Debug\netcoreapp3.1\Pract Task 8.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\obj\Debug\netcoreapp3.1\Pract Task 8.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\bin\Debug\netcoreapp3.1\Pract Task 8.exe
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\bin\Debug\netcoreapp3.1\Pract Task 8.deps.json
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\bin\Debug\netcoreapp3.1\Pract Task 8.runtimeconfig.json
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\bin\Debug\netcoreapp3.1\Pract Task 8.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\bin\Debug\netcoreapp3.1\Pract Task 8.dll
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\bin\Debug\netcoreapp3.1\Pract Task 8.pdb
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\obj\Debug\netcoreapp3.1\Pract Task 8.dll
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\obj\Debug\netcoreapp3.1\Pract Task 8.pdb
+C:\Users\Acer\source\repos\Pract Task 8\Pract Task 8\obj\Debug\netcoreapp3.1\Pract Task 8.genruntimeconfig.cache
