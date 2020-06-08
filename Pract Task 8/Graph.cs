@@ -1,19 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using System.Text;
 
 namespace Pract_Task_8
 {
+    //Граф, представленный в виде списка смежных вершин для каждой отдельной
     class Graph
     {
         private int vert;
-
+        public int edgeCounter;
         private List<int>[] adj;
 
         public Graph(int[,] matrix)
         {
             //Инициализация
             this.vert = matrix.GetLength(0);
+            edgeCounter = 0;
+            foreach (int x in matrix) edgeCounter += x;
+            edgeCounter = edgeCounter / 2;
 
             adj = new List<int>[vert];
             for(int v = 0; v < vert; v++)
